@@ -49,5 +49,5 @@ node server.js
 ✅ Real-time collaboration using Socket.io  
 ✅ Future enhancements: Recipe categorization, performance optimization  
 
-Happy Coding! 🎉👨‍💻👩‍💻
+
 
